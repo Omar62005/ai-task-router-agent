@@ -1,0 +1,9 @@
+.env
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large local recording; use Git LFS or an external link if it should be shared.
+Task 2 Video.mov
